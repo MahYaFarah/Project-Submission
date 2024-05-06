@@ -1,0 +1,50 @@
+<REMEDY_CATALOG>
+    <REMEDY_CATEGORY>
+        <TITLE>Cuts and Scrapes</TITLE>
+        <REMEDY>
+            <NAME>Honey</NAME>
+            <INGREDIENTS>Honey</INGREDIENTS>
+            <INSTRUCTIONS>Apply a thin layer of honey to the wound, cover with a bandage.</INSTRUCTIONS>
+            <BENEFITS>Antibacterial, promotes healing</BENEFITS>
+        </REMEDY>
+        <REMEDY>
+            <NAME>Aloe Vera</NAME>
+            <INGREDIENTS>Aloe vera gel</INGREDIENTS>
+            <INSTRUCTIONS>Apply aloe vera gel to the cut or scrape for soothing relief.</INSTRUCTIONS>
+            <BENEFITS>Soothes skin, aids healing</BENEFITS>
+        </REMEDY>
+    </REMEDY_CATEGORY>
+
+    <REMEDY_CATEGORY>
+        <TITLE>Burns</TITLE>
+        <REMEDY>
+            <NAME>Aloe Vera</NAME>
+            <INGREDIENTS>Aloe vera gel</INGREDIENTS>
+            <INSTRUCTIONS>Apply the gel to the burn to cool and soothe the skin.</INSTRUCTIONS>
+            <BENEFITS>Reduces pain, promotes healing</BENEFITS>
+        </REMEDY>
+        <REMEDY>
+            <NAME>Lavender Oil</NAME>
+            <INGREDIENTS>Lavender essential oil</INGREDIENTS>
+            <INSTRUCTIONS>Mix a few drops of lavender oil with a carrier oil and apply to the burn.</INSTRUCTIONS>
+            <BENEFITS>Soothes pain, prevents infection</BENEFITS>
+        </REMEDY>
+    </REMEDY_CATEGORY>
+
+    <REMEDY_CATEGORY>
+        <TITLE>Insect Bites</TITLE>
+        <REMEDY>
+            <NAME>Baking Soda Paste</NAME>
+            <INGREDIENTS>Baking soda, water</INGREDIENTS>
+            <INSTRUCTIONS>Mix baking soda with water to form a paste and apply to the bite.</INSTRUCTIONS>
+            <BENEFITS>Reduces itching, soothes irritation</BENEFITS>
+        </REMEDY>
+        <REMEDY>
+            <NAME>Tea Tree Oil</NAME>
+            <INGREDIENTS>Tea tree essential oil</INGREDIENTS>
+            <INSTRUCTIONS>Mix a few drops of tea tree oil with a carrier oil and apply to the bite.</INSTRUCTIONS>
+            <BENEFITS>Antiseptic, reduces swelling</BENEFITS>
+        </REMEDY>
+    </REMEDY_CATEGORY>
+
+</REMEDY_CATALOG>

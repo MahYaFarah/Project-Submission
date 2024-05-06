@@ -1,0 +1,50 @@
+<REMEDY_CATALOG>
+    <REMEDY_CATEGORY>
+        <TITLE>Cuts and Scrapes</TITLE>
+        <REMEDY>
+            <NAME>Honey</NAME>
+            <INGREDIENTS>Ingredients: Honey</INGREDIENTS>
+            <INSTRUCTIONS>Instructions: Apply a thin layer of honey to the wound, cover with a bandage.</INSTRUCTIONS>
+            <BENEFITS>Benefits: Antibacterial, promotes healing</BENEFITS>
+        </REMEDY>
+        <REMEDY>
+            <NAME>Aloe Vera</NAME>
+            <INGREDIENTS>Ingredients: Aloe vera gel</INGREDIENTS>
+            <INSTRUCTIONS>Instructions: Apply aloe vera gel to the cut or scrape for soothing relief.</INSTRUCTIONS>
+            <BENEFITS>Benefits: Soothes skin, aids healing</BENEFITS>
+        </REMEDY>
+    </REMEDY_CATEGORY>
+
+    <REMEDY_CATEGORY>
+        <TITLE>Burns</TITLE>
+        <REMEDY>
+            <NAME>Aloe Vera</NAME>
+            <INGREDIENTS>Ingredients: Aloe vera gel</INGREDIENTS>
+            <INSTRUCTIONS>Instructions: Apply the gel to the burn to cool and soothe the skin.</INSTRUCTIONS>
+            <BENEFITS>Benefits: Reduces pain, promotes healing</BENEFITS>
+        </REMEDY>
+        <REMEDY>
+            <NAME>Lavender Oil</NAME>
+            <INGREDIENTS>Ingredients: Lavender essential oil</INGREDIENTS>
+            <INSTRUCTIONS>Instructions: Mix a few drops of lavender oil with a carrier oil and apply to the burn.</INSTRUCTIONS>
+            <BENEFITS>Benefits: Soothes pain, prevents infection</BENEFITS>
+        </REMEDY>
+    </REMEDY_CATEGORY>
+
+    <REMEDY_CATEGORY>
+        <TITLE>Insect Bites</TITLE>
+        <REMEDY>
+            <NAME>Baking Soda Paste</NAME>
+            <INGREDIENTS>Ingredients: Baking soda, water</INGREDIENTS>
+            <INSTRUCTIONS>Instructions: Mix baking soda with water to form a paste and apply to the bite.</INSTRUCTIONS>
+            <BENEFITS>Benefits: Reduces itching, soothes irritation</BENEFITS>
+        </REMEDY>
+        <REMEDY>
+            <NAME>Tea Tree Oil</NAME>
+            <INGREDIENTS>Ingredients: Tea tree essential oil</INGREDIENTS>
+            <INSTRUCTIONS>Instructions: Mix a few drops of tea tree oil with a carrier oil and apply to the bite.</INSTRUCTIONS>
+            <BENEFITS>Benefits: Antiseptic, reduces swelling</BENEFITS>
+        </REMEDY>
+    </REMEDY_CATEGORY>
+
+</REMEDY_CATALOG>
